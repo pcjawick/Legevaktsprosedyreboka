@@ -1,0 +1,351 @@
+% !TEX TS-program = pdflatex
+% !TEX encoding = UTF-8 Unicode
+\documentclass[12pt,a4paper]{memoir}
+
+%Packages
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[table]{xcolor}
+\usepackage{amssymb}
+\usepackage{titlesec}
+\usepackage{afterpage}
+\usepackage{hyperref}
+
+%Layout
+\settrimmedsize{11in}{210mm}{*}
+\setlength{\trimtop}{0pt}
+\setlength{\trimedge}{\stockwidth}
+\addtolength{\trimedge}{-\paperwidth}
+\settypeblocksize{7.75in}{33pc}{*}
+\setulmargins{4cm}{*}{*}
+\setlrmargins{1.25in}{*}{*}
+\setmarginnotes{17pt}{51pt}{\onelineskip}
+\setheadfoot{\onelineskip}{2\onelineskip}
+\setheaderspaces{*}{2\onelineskip}{*}
+\pagestyle{ruled}
+\chapterstyle{hangnum}
+
+
+
+%Doc properties
+\author{Pål Ager-Wick }
+
+\title {Legevaktsprosedyrehåndbok \\* Øvre Eiker legevakt \\* Versjon 0.5} 
+\date{8. August 2013}
+
+\begin{document}
+
+\renewcommand{\chaptername}{Del}
+%\renewcommand{\thesection}
+
+\renewcommand{\bibname}{Kilder:}
+\renewcommand{\contentsname}{Innhold:}
+\renewcommand{\listfigurename}{Oversikt over tableller og bilder:}
+
+%tittelsidestart
+\input{./tittel.tex}
+  
+
+%slutt på tittelsiden
+\tableofcontents
+
+%Forklaring av boka, kapitlene referes til i sjekklistene(husk å bruke labelkommandoer)
+
+\chapter{Forklaring av denne boka}
+	\section{Versjon 0.5} \label{versjon}
+	Denne boken innholder sjekklister som brukes på legevakten i Øvre Eiker. Sjekklistene er ment for leger og skal ikke erstatte klinisk skjønn, men hjelpe til å huske på kritiske ting når mye skjer. I tillegg skal den hjelpe til å gjøre legevakta best mulig for pasient, og de som jobber på legevakta. De siste to årene har det kommet noen klager som vi kunne ungått med å være mer samstemte. \\
+	Det er i legenes interesse at man fyller ut sjekklistene før og etter vakt. Det vil hjelpe masse dersom det skulle komme klagesaker og sikre at du ikke glemmer noe som går ut over pasienten\cite{manifesto}.\\
+	Sjekklistene har sin forklaring i kapitelene i denne boka. Det er tenkt at sjekklistene skal være en hjelp til å ikke glemme noe, og det er ikke plikt å bruke dem, annet enn for listene for starten og slutten av legevakten. De må utføres av alle leger, ellers vil dere bli mer sårbare for klager og vi som kommune oppfyller ikke kravene våre til å følge opp pasientsikkerheten. 
+
+	\section{Sjekklistene}
+	I vedlegget er listene i utskriftsvennlig format. Det er på sikt tenkt at disse skal fylles ut på nett. Foreløpig tar vi papirutgaven. 
+
+\chapter{Hvorfor gjør vi dette?}\label{chap:desc_lv_start}
+	\section{Praktiske ting før vakten begynner}
+	Det er noe sjekkpunkter som viktige før vakten begynner og gjøremålene før vakta er i gang står i kapittelet~"\nameref{chap:lv_start}" fra side \pageref{chap:lv_start}. "\nameref{sec:start_kontor}" gjennomgår alle de viktige tingene på kontoret. Det spesielt viktig å lese loggen fordi ny og viktig info vil stå der om tnig som vil være viktig for DIN vakt. For eksempel vil det kunne stå om hvilket sykehus som ikke kan ta pasienter fordi det er overbelegg. Det vil kunne være viktige meldinger om medisiner vi ikke har på legevakten, eller om farlige folk som har truet legegvakten.\\
+
+	Husk at matpauser er viktige og obligatoriske. I tillegg er den viktigste samrabeidspartneren din sykepleier og hun må vite hvem du er og hvordan hun best kan hjelpe deg. Når sjekklisa er ferdig utfyllt så skal dere gå gjennom punktene samen og hun signerer sammen med deg.\\
+
+	På side \pageref{sec:start_AMK} kommer noe nytt for mange, å melde seg for AMK når man begynner vakta. Det er blitt en del av protokollen på grunn av nødnettet. Det er også vikti for AMK å vite hvem og hvor du er når de kankje trenger assistanse av lege.\\
+
+	Det er også en gjennomgang av hva du gjør med, og hvordan du bruker Nødnettradioen.\\
+
+	Politiet har vakt i hele søndre Buskerud og kan ha lang vei for å komme å hjelpe eller å assistere på kveld eller natt. Det er veldig viktig at du kontakter operasjonssentralen så du vet omtrent hvor lang tid de vil trenge eller om det er noen spesielle meldinger som du trenger. \\
+
+	Til slutt må vi kontakte hjemmetjenesten da de noen ganger har sykebesøk eller annet de aner at kan komme i løpet av vakten. Det vil være viktig for å kunne planlegge vakta.\\
+
+	Da er gjøremålene ferdig før start av legevakt, og du går gjennom punktene med sykepleieren. Hun leser listen og du svarer. Det er ikke bra nok å legge listen på bordet. Dette er helt analogt til hvordan flyvere gjør før de skal ut og fly og det må vi også for å kunne ha en best mulig, sikrest mulig og oversiktelig legevakt.
+
+\chapter{Så var det over for denne gang}\label{chap:desc_lv_slutt}	 
+	\section{Før du går...}
+	Dette gjeder fra side \pageref{sec:elv_regns} og utover. Det er stadig noen som glemmer ting på legevakten, men fordi vi har noen påminnelser her også vil det gå lettere å ikke gå glipp av noe. Ikke minst er det viktig med tilbakemeldinger dersom noe ikke funker eller at man ikke får betalt. I kaptittelet "\nameref{sec:elv_nxtv}" ber jeg om at du dobbeltsjekker neste vakt fordi det ofte glipper her. Send melding dersom du vil at jeg skal sende samlemelding hvis du ønsker bytte.\\
+
+	"\nameref{sec:elv_feedbk}" er kanskje det viktigste punktet. 
+
+%Start på sjekklister, max 12 punkter per liste
+
+\appendix
+ 	\renewcommand{\labelitemi}{$\Box$}%Lager bokser på punktlista
+ 	\renewcommand{\labelitemii}{$\Box$}%Lager boxer på underlistene
+
+\newpage
+\chapter{Når legevakten begynner}\label{chap:lv_start}
+	\section{Kontoret, dataen og hvilerommet}\label{sec:start_kontor}
+	Denne listen har 13 sjekkpunkter som må gjennomføres før legevakten begynner og sjekkes med sykepleier. Se side \pageref{chap:desc_lv_start} hvis du lurer på hvorfor. \\
+		\begin{itemize}
+			%kommentert litt her for å gjøre lista kortere
+			%\item PC
+				%\begin{itemize}
+					\item Sett inn BuyPasskortet før du starter Citrix
+					\item Brukernavn og passord ligger i skuffen på venstre  
+				%\end{itemize}
+			\item Sjekk om det er nok papir i skriveren
+			%\item Jeg har sjekket telefonlista(oppdateres forløpende, må sjekkes hver gang) bakerst i boka slik at jeg vet hvilke nummer som er viktige
+			\item Hvis jeg tar i mot penger husker jeg å trykke "alt betalt"
+		\end{itemize}
+	\section{Sykepleier}\label{sec:start_sykepleier}
+		\begin{itemize}
+			\item Presenter deg for sykepleieren
+			\item Avtal minst en matpause
+			\item Avtal hvor lenge du trenger per pasient
+		\end{itemize}
+	\section{Nødnett og AMK}\label{sec:start_AMK}
+		\begin{itemize}
+			\item Skru av tastelås, rykk og hold '3' inn og og sjekk at du ringer opp legevakta
+			\item Trykk og hold '2' inne, deretter bruk den store sorte knappen, trykk og hold inne og fortell hvem du er og at du er på vakt i Øvre Eiker.
+			\item Trykk og hold '1' inne til linja i midten viser 'Øvre Eiker legevakt'
+		\end{itemize}
+	\section{Samarbeid før vakt}\label{sec:start_samarbeid}
+		\subsection{Legevakta}\label{sec:sam_lvintern}
+			\begin{itemize}
+				\item Sjekket om det ligger aktuelle beskjeder i 'beskjeder' fil som ligger på skrivebordet
+			\end{itemize}
+		\subsection{Politiet}\label{sec:sam_pol}%Vurderer dette på sykepleiersjekkliste
+			\begin{itemize}
+				\item Ring 02800 og sjekk hvilket lensmannskontor som har vakt i dag
+			\end{itemize}
+		\subsection{Hjemmetjenesten}\label{sec:sam_hjtj}%Vurderer dette på sykepleiersjekkliste
+			\begin{itemize}
+				\item Be sykepleier ringe hjemmetjenesten og spørre om det er noen som skal ha sykebesøk i dag
+		\end{itemize}
+		\label{lst:start_kontor_num}
+\newpage
+\chapter{Etter legevakta}
+	\section{Regnskap}\label{sec:elv_regns}
+		\begin{itemize}
+			\item Sendt samleregning til HELFO
+			\item Skrevet ut kassadagbok til regnskapet
+			\item Sjekket http://portal.credicare.no/ at jeg ikke har noen ting utestående
+		\end{itemize}
+	\section{Neste vakt}\label{sec:elv_nxtv}
+		\begin{itemize}
+			\item Hvilken dato er neste vakt? Passer det?
+		\end{itemize}
+	\section{Tilbakemeldinger}\label{sec:elv_feedbk}
+		\begin{itemize}
+			\item SMS til 948 00 344 om det er noe som må endres på legevakta, eller noe som ikke har fungert.
+		\end{itemize}
+
+\newpage
+\chapter{Medisinske huskelister}
+	\section{Akuttmedisin}
+		\subsection{A-HLR}
+			\begin{itemize}
+				\item
+			\end{itemize}
+		\subsection{Traume}
+			\begin{itemize}
+				\item
+			\end{itemize}
+		\subsection{Anafylksi/Allergisk sjokk}
+			\begin{itemize}
+				\item
+			\end{itemize}
+	\section{Sutur}
+		\begin{itemize}
+			\item
+		\end{itemize}
+	\section{EKG, brystsmerter}
+		\begin{itemize}
+			\item
+		\end{itemize}
+	\section{Hjernerystelse/commotio}
+		\begin{itemize}
+			\item
+		\end{itemize}
+	\section{Slag/Apoplex}
+		\begin{itemize}
+			\item
+		\end{itemize}
+	\section{DVT}
+		\begin{itemize}
+			\item
+		\end{itemize}
+	\section{Magesmerter}
+		\begin{itemize}
+			\item
+		\end{itemize}
+		\subsection{Barn(under 18 år)}
+			\begin{itemize}
+				\item
+			\end{itemize}
+		\subsection{Kvinner 16-40 år}
+			\begin{itemize}
+				\item
+			\end{itemize}
+		\subsection{Voksne og eldre}
+			\begin{itemize}
+				\item
+			\end{itemize}
+	\section{psykiatri}
+		\begin{itemize}
+			\item
+		\end{itemize}
+
+\newpage
+\chapter{Dødsfall}
+	\section{Dødsattesten}
+		\begin{itemize}
+			\item
+		\end{itemize}
+	\section{Pårørende}
+		\begin{itemize}
+			\item
+		\end{itemize}
+	\section{Obduksjon}
+		\begin{itemize}
+			\item
+		\end{itemize}
+	\section{Begravelsesbyrå}
+		\begin{itemize}
+			\item
+		\end{itemize}
+
+\newpage
+\chapter{Datatrøbbel}
+	\section{innloggingsproblemer}
+		\subsection{citrix}
+			\begin{itemize}
+				\item
+			\end{itemize}
+		\subsection{winmed}
+			\begin{itemize}
+				\item
+			\end{itemize}
+	\section{Buypasskort virker ikke}
+		\begin{itemize}
+			\item
+		\end{itemize}
+	\section{E resept virker ikke}
+		\begin{itemize}
+			\item
+		\end{itemize}
+	\section{Får ikke sendt oppgjør}
+		\begin{itemize}
+			\item
+		\end{itemize}
+	\section{sykemelding virker ikke}%Husk hele personnummeret
+		\begin{itemize}
+			\item
+		\end{itemize}
+
+\newpage
+\chapter{Når store ulykker skjer}
+	\section{Personlige tragedier}
+		\begin{itemize}
+			\item
+		\end{itemize}
+	\section{Mange involverte}
+		\begin{itemize}
+			\item
+		\end{itemize}
+
+\newpage
+\chapter{Vold og trusler}
+	\section{Anmeldelse}
+		\begin{itemize}
+			\item
+		\end{itemize}
+	\section{Hvis noen er fysisk eller psykisk skadd}
+		\begin{itemize}
+			\item
+		\end{itemize}
+	\section{Matrielle skader} 
+		\begin{itemize}
+			\item
+		\end{itemize}
+	\section{Muntlige trusler}
+		\begin{itemize}
+			\item
+		\end{itemize}
+
+%Slutt på sjekklister
+\newpage
+\chapter{Telefon og epost}
+		
+	\section{AMK, Brann og politi}
+		
+			\begin{table}[ht]
+				\caption{Viktige telefonnummer}
+				\centering
+				\rowcolors{1}{cyan}{white}
+				\begin{tabular}{|p{4.5cm}| p{5cm}| p{6cm}|}
+					\hline
+					{\textbf Hvem} & {\textbf Avdeling} &{\textbf Nummer}\\[0.75pt]
+					\hline% 3 kolonner
+					AMK  & Nødnummer \newline Ambulansebestilling & 113 \newline 32 71 50 10\\
+					\hline
+					Brann & Sentral & 110 \\
+					\hline
+					Politi &  Akutt \newline Operasjonssentralen & 112 \newline 02800 \newline \emph{Husk å følge twitter\newline @politiopssbusk} \\
+					\hline
+				\end{tabular}
+			\end{table}
+\newpage	
+	\section{Sykehus og hjemmetjeneste}
+			\begin{table}[ht]
+				\caption{Viktige telefonnummer}
+				\centering
+				\rowcolors{1}{cyan}{white}
+				\begin{tabular}{|p{7cm}| p{3cm}| p{6cm}|}
+					\hline
+					{\textbf Hvem} & {\textbf Avdeling} &{\textbf Nummer}\\[0.75pt]
+					\hline
+					Hjemmetjenesten & Hokksund \newline Vestfossen \newline Skotselv & 90 12 12 81\newline ukjent \newline ukjent \\
+					\hline
+					Medisin Kongsberg & Akuttmottaket & 03525\\
+					\hline
+				\end{tabular}
+			\end{table}
+\newpage	
+	\section{Eposter til fastlegene}
+			\begin{table}[ht]
+				\caption{Viktige epostadresser}
+				\centering
+				\rowcolors{1}{cyan}{white}
+				\begin{tabular}{|p{6cm}| p{5cm}| p{5cm}|}
+					\hline
+					{\textbf Hvem} & {\textbf Legekontor} &{\textbf Nummer}\\[0.75pt]
+					\hline
+					Terje Eng \newline Terje Austad \newline Rie Krat Bjørkholt \newline Agnieszka Magdalena Wilkosz \newline Sofia Øien \newline Else Malthe Sørenessen & Legehuset A/S \newline Postboks 84 \newline 3XXX HOKKSUND & post@legehuset.nhn.no \\
+					\hline
+					Dag Håvard Pettersen \newline Dana Andras & Skotselv legesenter \newline XXXX \newline XXX Hokksund &  dahpe@online.no\\
+					\hline
+				\end{tabular}
+			\end{table}
+
+%Kildehenvisinger
+
+\begin{thebibliography}{99}
+
+\bibitem{manifesto}
+  Arul Gawande, 2009, \emph{The Checklist manifesto}
+
+\end{thebibliography}
+
+\newpage
+\listoffigures
+
+\end{document}
+
+

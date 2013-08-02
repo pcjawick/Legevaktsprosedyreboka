@@ -1,0 +1,62 @@
+\contentsline {chapter}{Innhold:}{1}{section*.1}
+\contentsline {chapter}{\chapternumberline {1}Forklaring av denne boka}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Versjon 0.5}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Sjekklistene}{3}{section.1.2}
+\contentsline {chapter}{\chapternumberline {2}Hvorfor gj\IeC {\o }r vi dette?}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Praktiske ting f\IeC {\o }r vakten begynner}{5}{section.2.1}
+\contentsline {chapter}{\chapternumberline {3}S\IeC {\r a} var det over for denne gang}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}F\IeC {\o }r du g\IeC {\r a}r...}{7}{section.3.1}
+\contentsline {appendix}{\chapternumberline {A}N\IeC {\r a}r legevakten begynner}{9}{appendix.A}
+\contentsline {section}{\numberline {A.1}Kontoret, dataen og hvilerommet}{9}{section.A.1}
+\contentsline {section}{\numberline {A.2}Sykepleier}{9}{section.A.2}
+\contentsline {section}{\numberline {A.3}N\IeC {\o }dnett og AMK}{9}{section.A.3}
+\contentsline {section}{\numberline {A.4}Samarbeid f\IeC {\o }r vakt}{10}{section.A.4}
+\contentsline {subsection}{Legevakta}{10}{subsection*.2}
+\contentsline {subsection}{Politiet}{10}{subsection*.3}
+\contentsline {subsection}{Hjemmetjenesten}{10}{subsection*.4}
+\contentsline {appendix}{\chapternumberline {B}Etter legevakta}{11}{appendix.B}
+\contentsline {section}{\numberline {B.1}Regnskap}{11}{section.B.1}
+\contentsline {section}{\numberline {B.2}Neste vakt}{11}{section.B.2}
+\contentsline {section}{\numberline {B.3}Tilbakemeldinger}{11}{section.B.3}
+\contentsline {appendix}{\chapternumberline {C}Medisinske huskelister}{13}{appendix.C}
+\contentsline {section}{\numberline {C.1}Akuttmedisin}{13}{section.C.1}
+\contentsline {subsection}{A-HLR}{13}{subsection*.5}
+\contentsline {subsection}{Traume}{13}{subsection*.6}
+\contentsline {subsection}{Anafylksi/Allergisk sjokk}{13}{subsection*.7}
+\contentsline {section}{\numberline {C.2}Sutur}{13}{section.C.2}
+\contentsline {section}{\numberline {C.3}EKG, brystsmerter}{13}{section.C.3}
+\contentsline {section}{\numberline {C.4}Hjernerystelse/commotio}{13}{section.C.4}
+\contentsline {section}{\numberline {C.5}Slag/Apoplex}{14}{section.C.5}
+\contentsline {section}{\numberline {C.6}DVT}{14}{section.C.6}
+\contentsline {section}{\numberline {C.7}Magesmerter}{14}{section.C.7}
+\contentsline {subsection}{Barn(under 18 \IeC {\r a}r)}{14}{subsection*.8}
+\contentsline {subsection}{Kvinner 16-40 \IeC {\r a}r}{14}{subsection*.9}
+\contentsline {subsection}{Voksne og eldre}{14}{subsection*.10}
+\contentsline {section}{\numberline {C.8}psykiatri}{14}{section.C.8}
+\contentsline {appendix}{\chapternumberline {D}D\IeC {\o }dsfall}{15}{appendix.D}
+\contentsline {section}{\numberline {D.1}D\IeC {\o }dsattesten}{15}{section.D.1}
+\contentsline {section}{\numberline {D.2}P\IeC {\r a}r\IeC {\o }rende}{15}{section.D.2}
+\contentsline {section}{\numberline {D.3}Obduksjon}{15}{section.D.3}
+\contentsline {section}{\numberline {D.4}Begravelsesbyr\IeC {\r a}}{15}{section.D.4}
+\contentsline {appendix}{\chapternumberline {E}Datatr\IeC {\o }bbel}{17}{appendix.E}
+\contentsline {section}{\numberline {E.1}innloggingsproblemer}{17}{section.E.1}
+\contentsline {subsection}{citrix}{17}{subsection*.11}
+\contentsline {subsection}{winmed}{17}{subsection*.12}
+\contentsline {section}{\numberline {E.2}Buypasskort virker ikke}{17}{section.E.2}
+\contentsline {section}{\numberline {E.3}E resept virker ikke}{17}{section.E.3}
+\contentsline {section}{\numberline {E.4}F\IeC {\r a}r ikke sendt oppgj\IeC {\o }r}{17}{section.E.4}
+\contentsline {section}{\numberline {E.5}sykemelding virker ikke}{17}{section.E.5}
+\contentsline {appendix}{\chapternumberline {F}N\IeC {\r a}r store ulykker skjer}{19}{appendix.F}
+\contentsline {section}{\numberline {F.1}Personlige tragedier}{19}{section.F.1}
+\contentsline {section}{\numberline {F.2}Mange involverte}{19}{section.F.2}
+\contentsline {appendix}{\chapternumberline {G}Vold og trusler}{21}{appendix.G}
+\contentsline {section}{\numberline {G.1}Anmeldelse}{21}{section.G.1}
+\contentsline {section}{\numberline {G.2}Hvis noen er fysisk eller psykisk skadd}{21}{section.G.2}
+\contentsline {section}{\numberline {G.3}Matrielle skader}{21}{section.G.3}
+\contentsline {section}{\numberline {G.4}Muntlige trusler}{21}{section.G.4}
+\contentsline {appendix}{\chapternumberline {H}Telefon og epost}{23}{appendix.H}
+\contentsline {section}{\numberline {H.1}AMK, Brann og politi}{23}{section.H.1}
+\contentsline {section}{\numberline {H.2}Sykehus og hjemmetjeneste}{24}{section.H.2}
+\contentsline {section}{\numberline {H.3}Eposter til fastlegene}{25}{section.H.3}
+\contentsline {chapter}{Kilder:}{27}{section*.14}
+\contentsline {chapter}{Oversikt over tableller og bilder:}{28}{section*.15}
