@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.22)  2 AUG 2013 16:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.22)  2 AUG 2013 23:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -859,43 +859,43 @@ l.31 ...berline {C.7}Magesmerter}{14}{section.C.7}
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 \chapter
+l.55 \chapter
              {Forklaring av denne boka} [2] [3
 
 ] [4
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
 [5] [6]
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
@@ -904,7 +904,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--82
 ] [8
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 94--99
+Underfull \hbox (badness 10000) in paragraph at lines 95--100
 
  []
 
@@ -923,17 +923,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--99
 ] [21] [22
 
 ]
-Overfull \hbox (82.61768pt too wide) in paragraph at lines 292--303
+Overfull \hbox (82.61768pt too wide) in paragraph at lines 299--310
  [][] 
  []
 
 [23]
-Overfull \hbox (96.84404pt too wide) in paragraph at lines 310--319
+Overfull \hbox (96.84404pt too wide) in paragraph at lines 317--326
  [][] 
  []
 
 [24]
-Overfull \hbox (96.84406pt too wide) in paragraph at lines 326--335
+Overfull \hbox (96.84406pt too wide) in paragraph at lines 333--344
+ [][] 
+ []
+
+
+Overfull \hbox (96.84406pt too wide) in paragraph at lines 350--359
  [][] 
  []
 
@@ -948,20 +953,20 @@ bibitemlist
 \tf@lof=\write6
 \openout6 = `Prosedyreboka.lof'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 349.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 349.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 374.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 374.
  (./Prosedyreboka.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 349.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 349.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 374.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 374.
 Package rerunfilecheck Info: File `Prosedyreboka.out' has not changed.
-(rerunfilecheck)             Checksum: 8C23B99EEE41425E07C2CD172971ACEB;3195.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 349.
+(rerunfilecheck)             Checksum: B9E09D02AA1B911A1F323D4E78339A11;3243.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 374.
  ) 
 Here is how much of TeX's memory you used:
- 9904 strings out of 493315
- 138745 string characters out of 6137904
- 261577 words of memory out of 5000000
- 13163 multiletter control sequences out of 15000+600000
+ 9909 strings out of 493315
+ 138803 string characters out of 6137904
+ 261739 words of memory out of 5000000
+ 13166 multiletter control sequences out of 15000+600000
  11357 words of font info for 42 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  43i,12n,35p,639b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -971,10 +976,10 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></
 usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pf
 b>
-Output written on Prosedyreboka.pdf (30 pages, 99593 bytes).
+Output written on Prosedyreboka.pdf (30 pages, 100757 bytes).
 PDF statistics:
- 457 PDF objects out of 1000 (max. 8388607)
- 415 compressed objects within 5 object streams
- 96 named destinations out of 1000 (max. 500000)
- 409 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 467 PDF objects out of 1000 (max. 8388607)
+ 425 compressed objects within 5 object streams
+ 98 named destinations out of 1000 (max. 500000)
+ 417 words of extra memory for PDF output out of 10000 (max. 10000000)
 

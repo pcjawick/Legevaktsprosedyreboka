@@ -58,5 +58,6 @@
 \contentsline {section}{\numberline {H.1}AMK, Brann og politi}{23}{section.H.1}
 \contentsline {section}{\numberline {H.2}Sykehus og hjemmetjeneste}{24}{section.H.2}
 \contentsline {section}{\numberline {H.3}Eposter til fastlegene}{25}{section.H.3}
+\contentsline {section}{\numberline {H.4}Kommunelegene}{25}{section.H.4}
 \contentsline {chapter}{Kilder:}{27}{section*.14}
-\contentsline {chapter}{Oversikt over tableller og bilder:}{28}{section*.15}
+\contentsline {chapter}{Oversikt over bilder:}{28}{section*.15}
