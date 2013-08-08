@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.22)  8 AUG 2013 15:03
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.22)  8 AUG 2013 15:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -865,7 +865,7 @@ l.59 \chapter
 ] [4
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
 
  []
 
@@ -954,14 +954,14 @@ bibitemlist
 \tf@lof=\write6
 \openout6 = `Prosedyreboka.lof'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 114.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 114.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
  (./Prosedyreboka.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 114.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 114.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
 Package rerunfilecheck Info: File `Prosedyreboka.out' has not changed.
 (rerunfilecheck)             Checksum: B9E09D02AA1B911A1F323D4E78339A11;3243.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 114.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  ) 
 Here is how much of TeX's memory you used:
  9920 strings out of 493315
@@ -977,10 +977,10 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></
 usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pf
 b>
-Output written on Prosedyreboka.pdf (30 pages, 100631 bytes).
+Output written on Prosedyreboka.pdf (30 pages, 100616 bytes).
 PDF statistics:
- 464 PDF objects out of 1000 (max. 8388607)
- 422 compressed objects within 5 object streams
+ 463 PDF objects out of 1000 (max. 8388607)
+ 421 compressed objects within 5 object streams
  98 named destinations out of 1000 (max. 500000)
  417 words of extra memory for PDF output out of 10000 (max. 10000000)
 
